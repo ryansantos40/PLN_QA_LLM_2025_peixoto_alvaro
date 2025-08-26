@@ -4,7 +4,10 @@
 * Álvaro Luís Silva Peixoto
 * Charlie Rodrigues Fonseca
 * Ryan dos Santos Carvalho
+---
 
+### *Vídeo Elaborado*
+[Acesso ao vídeo](https://drive.google.com/file/d/1P1qFPS0OpZmyfzf0QjeJkQHKSgCktAzV/view?usp=sharing)
 ---
 
 ### *Resumo*
